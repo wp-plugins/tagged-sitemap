@@ -8,11 +8,7 @@ Stable tag: 1.0
 Creates a shortcode `[tagged-sitemap]` that renders a nested list with 
 all the pages and tags for page. When a tag is clicked, related pages are then highlighted.
 
-Required plugins: [Page 
-Tagger](http://wordpress.org/extend/plugins/page-tagger/ "Page 
-Tagger") or [Simple 
-Tags](http://wordprss.org/extend/plugins/simple-tags/ "Simple 
-Tags")
+Required plugins: [Page Tagger](http://wordpress.org/extend/plugins/page-tagger/ "Page Tagger") or [Simple Tags](http://wordprss.org/extend/plugins/simple-tags/ "Simple Tags")
 
 Some example: [UBC LEAP](http://leap.ubc.ca/sitemap "UBC LEAP")
 
