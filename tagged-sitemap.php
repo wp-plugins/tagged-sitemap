@@ -9,7 +9,7 @@ Plugin URI: http://wordpress.org/extend/plugins/tagged-sitemap/
 Description: Creates a shortcode [tagged-sitemap] that renders a nested list with all the pages and tags for page.
 Author: Michael Ha
 Version: 1.0
-Author URI: http://michaelha.info/
+Author URI: http://khmha.com/
 */
 
 include_once('functions.php');
